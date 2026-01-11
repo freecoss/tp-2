@@ -29,17 +29,13 @@ Une application console pour gérer une liste de produits. Elle permet d'ajouter
 *   Recherche par nom.
 
 **Exécution :**
-![Menu et Ajout](img/img1_1.PNG)
-*Menu principal et ajout d'un produit.*
 
-![Affichage et Recherche](img/img1_2.PNG)
-*Affichage de la liste et recherche d'un produit.*
-
-![Modification](img/img1_3.PNG)
-*Modification d'un produit existant.*
-
-![Suppression](img/img1_4.PNG)
-*Suppression d'un produit.*
+| Description | Capture d'écran |
+| :--- | :--- |
+| **Menu Principal & Ajout**<br>Affichage du menu et ajout d'un nouveau produit. | ![Menu et Ajout](img/img1_1.PNG) |
+| **Affichage & Recherche**<br>Liste des produits et recherche d'un produit par son nom. | ![Affichage et Recherche](img/img1_2.PNG) |
+| **Modification**<br>Modification des détails d'un produit existant. | ![Modification](img/img1_3.PNG) |
+| **Suppression**<br>Suppression d'un produit de la liste. | ![Suppression](img/img1_4.PNG) |
 
 ---
 
@@ -52,11 +48,11 @@ Utilisation d'une `HashMap` pour stocker et manipuler les notes des étudiants.
 *   Utilisation de lambdas pour l'affichage.
 
 **Exécution :**
-![Opérations de base](img/img2_1.PNG)
-*Insertion, augmentation et suppression.*
 
-![Statistiques](img/img2_2.PNG)
-*Calcul de la moyenne, max, min et vérification de note.*
+| Description | Capture d'écran |
+| :--- | :--- |
+| **Opérations de Base**<br>Insertion de notes, augmentation d'une note et suppression d'un étudiant. | ![Opérations de base](img/img2_1.PNG) |
+| **Statistiques**<br>Calcul de la moyenne, des notes max/min et vérification de l'existence d'une note de 20. | ![Statistiques](img/img2_2.PNG) |
 
 ---
 
@@ -68,8 +64,10 @@ Utilisation de `HashSet` pour gérer deux groupes d'étudiants et effectuer des 
 *   Intersection de deux groupes.
 
 **Exécution :**
-![Union et Intersection](img/img3.PNG)
-*Affichage des groupes, de leur intersection et de leur union.*
+
+| Description | Capture d'écran |
+| :--- | :--- |
+| **Opérations Ensemblistes**<br>Création des groupes, affichage de l'intersection et de l'union des groupes A et B. | ![Union et Intersection](img/img3.PNG) |
 
 ---
 
@@ -79,8 +77,10 @@ Utilisation de `HashSet` pour gérer deux groupes d'étudiants et effectuer des 
 Une classe générique capable de stocker, ajouter, récupérer et supprimer des éléments de n'importe quel type (`Integer`, `String`, `Double`, etc.).
 
 **Exécution :**
-![Tests Génériques](img/img4.PNG)
-*Tests avec des entiers, des chaînes de caractères et des doubles.*
+
+| Description | Capture d'écran |
+| :--- | :--- |
+| **Tests Génériques**<br>Démonstration du stockage avec des types différents : Entiers, Chaînes de caractères et Doubles. | ![Tests Génériques](img/img4.PNG) |
 
 ---
 
@@ -92,14 +92,12 @@ Application de la généricité à une interface métier pour la gestion des pro
 *   `MetierProduitImpl` : Implémentation pour la classe `Product`.
 
 **Exécution :**
-![Menu Générique](img/img5_1.PNG)
-*Menu de l'application générique et affichage.*
 
-![Recherche](img/img5_2.PNG)
-*Recherche d'un produit par ID.*
-
-![Suppression](img/img5_3.PNG)
-*Suppression d'un produit.*
+| Description | Capture d'écran |
+| :--- | :--- |
+| **Menu & Affichage**<br>Menu de l'application et affichage de la liste des produits. | ![Menu Générique](img/img5_1.PNG) |
+| **Recherche**<br>Recherche d'un produit par son identifiant unique (ID). | ![Recherche](img/img5_2.PNG) |
+| **Suppression**<br>Suppression d'un produit par son ID. | ![Suppression](img/img5_3.PNG) |
 
 ---
 
