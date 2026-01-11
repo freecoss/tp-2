@@ -33,9 +33,9 @@ Une application console pour gérer une liste de produits. Elle permet d'ajouter
 | Description | Capture d'écran |
 | :--- | :--- |
 | **Menu Principal & Ajout**<br>Affichage du menu et ajout d'un nouveau produit. | ![Menu et Ajout](img/img1_1.PNG) |
-| **Affichage & Recherche**<br>Liste des produits et recherche d'un produit par son nom. | ![Affichage et Recherche](img/img1_2.PNG) |
-| **Modification**<br>Modification des détails d'un produit existant. | ![Modification](img/img1_3.PNG) |
-| **Suppression**<br>Suppression d'un produit de la liste. | ![Suppression](img/img1_4.PNG) |
+| **Affichage & suppression**<br>Liste des produits et supprimer un produit par son indice. | ![Affichage et Recherche](img/img1_2.PNG) |
+| **Modification & Recherche**<br>Modification des détails d'un produit existant et recherche d'un produit par son nom. | ![Modification](img/img1_3.PNG) |
+| **Quitter**<br>Quitter le programme. | ![Suppression](img/img1_4.PNG) |
 
 ---
 
