@@ -95,9 +95,9 @@ Application de la généricité à une interface métier pour la gestion des pro
 
 | Description | Capture d'écran |
 | :--- | :--- |
-| **Menu & Affichage**<br>Menu de l'application et affichage de la liste des produits. | ![Menu Générique](img/img5_1.PNG) |
-| **Recherche**<br>Recherche d'un produit par son identifiant unique (ID). | ![Recherche](img/img5_2.PNG) |
-| **Suppression**<br>Suppression d'un produit par son ID. | ![Suppression](img/img5_3.PNG) |
+| **Ajout & Affichage**<br>Ajout d'un produit et affichage de la liste des produits. | ![Menu Générique](img/img5_1.PNG) |
+| **Recherche & Suppression**<br>Recherche et Suppression d'un produit par son identifiant unique (ID). | ![Recherche](img/img5_2.PNG) |
+| **Quitter**<br>Quitter le programme. | ![Suppression](img/img5_3.PNG) |
 
 ---
 
